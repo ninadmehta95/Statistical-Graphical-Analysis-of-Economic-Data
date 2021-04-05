@@ -1,4 +1,4 @@
-# Statistical Analysis of Economic Data
+# Statistical-Graphical Analysis of Economic Data
 ## Overview: 
 Collected dataset from United States government census official website (https://www.census.gov/). It has economic charateristics like Employement status, Occupation of people, way of commuting, income range of people, information about the industries, etc. The data is from 2010 and 2018. 
 
