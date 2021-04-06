@@ -18,7 +18,7 @@ Based on the analysis I was able to answer the above questions.
 
 <img src="images/Ninad1.JPG" width="900" height="500">
 
-### Reprot 2
+### Report 2
 - How many people are working in what kind of industry.
 - The way of their commute to work like carpooled, public trasportation, drove alone or walked.
 
