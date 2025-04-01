@@ -2,6 +2,9 @@
 ## Overview: 
 Collected dataset from United States government census official website (https://www.census.gov/). It has economic charateristics like Employement status, Occupation of people, way of commuting, income range of people, information about the industries, etc. The data is from 2010 and 2018. 
 
+## Problem: 
+Understanding how economic patterns, employment types, and commute styles evolved across U.S. states between 2010 and 2018.
+
 ## Analysis aim
 - Economic development of individual states
 - Which industries are blooming?
