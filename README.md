@@ -9,7 +9,7 @@ Collected dataset from United States government census official website (https:/
 - How much they are earning? Income range.
 - Comaprison between Government Vs Private sectors
 
-Based on the analysis I was able to answer the above questions. 
+This analysis revealed that private sector employment dominated across all states, with notable growth in transportation and warehousing industries between 2010 and 2018.
 
 ## Statistical and Graphical Representation
 ### Report 1:
